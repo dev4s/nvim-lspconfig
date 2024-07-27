@@ -1,3 +1,5 @@
+This repo contains autohotkey additional package
+----
 # nvim-lspconfig
 
 [Configs](doc/server_configurations.md) for the [Nvim LSP client](https://neovim.io/doc/user/lsp.html) (`:help lsp`).
