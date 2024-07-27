@@ -1,3 +1,5 @@
+This repo contains autohotkey additional package
+----
 # nvim-lspconfig
 
 nvim-lspconfig is a "data only" repo, providing basic, default [Nvim LSP client](https://neovim.io/doc/user/lsp.html)
